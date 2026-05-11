@@ -14,10 +14,10 @@ const standsData = {
     { "type": "yellow", "position": "top", "order": "none", "x": 52, "y": 41.6, "w": 1.2, "h": 2, "company": "G9", "logo": "./logos/logo-none.svg", "description": "ЗАБРОНИРОВАНО", "info": "" },
     { "type": "yellow", "position": "top", "order": "last", "x": 53.2, "y": 41.6, "w": 1.2, "h": 2, "company": "G10", "logo": "./logos/logo-calltouch.svg", "description": "Сервис сквозной аналитики", "info": "www.calltouch.ru" },
     { "type": "yellow", "position": "top", "order": "first", "x": 57.8, "y": 41.6, "w": 1.2, "h": 2, "company": "G11", "logo": "./logos/logo-telescope.svg", "description": "Сервис пополнения и управления кабинетами в Telegram Ads", "info": "tele-scope.one" },
-    { "type": "yellow", "position": "top", "order": "none", "x": 58.95, "y": 41.6, "w": 1.2, "h": 2, "company": "G12", "logo": "./logos/logo-none.svg", "description": "ЗАБРОНИРОВАНО", "info": "" },
+    { "type": "yellow", "position": "top", "order": "none", "x": 58.95, "y": 41.6, "w": 1.2, "h": 2, "company": "G12", "logo": "./logos/logo-tgcast.svg", "description": "TG Cast — аналитическая платформа и агентство для рекламы в Telegram", "info": "tgcast.ru" },
     { "type": "yellow", "position": "top", "order": "none", "x": 60.15, "y": 41.6, "w": 1.2, "h": 2, "company": "G13", "logo": "", "description": "", "info": ""},
     { "type": "yellow", "position": "top", "order": "none", "x": 61.35, "y": 41.6, "w": 1.2, "h": 2, "company": "G14", "logo": "", "description": "", "info": "" },
-    { "type": "yellow", "position": "top", "order": "last", "x": 62.55, "y": 41.6, "w": 1.2, "h": 2, "company": "G15", "logo": "./logos/logo-none.svg", "description": "ЗАБРОНИРОВАНО", "info": ""},
+    { "type": "yellow", "position": "top", "order": "last", "x": 62.55, "y": 41.6, "w": 1.2, "h": 2, "company": "G15", "logo": "./logos/logo-idigital.svg", "description": "IT-компания i-Digital - ведущий разработчик комплексных сервисов и решений для управления коммуникациями бизнеса и клиентов.", "info": "i-dgtl.ru"},
 
     /* ===== ЖЁЛТЫЕ СЛЕВА ===== */
 
